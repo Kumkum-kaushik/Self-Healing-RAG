@@ -1,0 +1,5 @@
+pypdf
+chromadb
+groq
+sentence-transformers
+streamlit
