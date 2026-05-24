@@ -1,4 +1,4 @@
-# 🕉️ Self-Healing RAG Pipeline
+# Self-Healing RAG Pipeline
 
 A RAG (Retrieval-Augmented Generation) pipeline that can detect bad retrievals and fix itself automatically. Built with ChromaDB, Sentence Transformers, and Groq.
 
