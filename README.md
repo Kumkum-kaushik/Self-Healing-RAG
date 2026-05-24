@@ -158,13 +158,3 @@ The pipeline was tested on a 435-page PDF related to Krishna philosophy.
 * Generated answers were context-aware and relevant for most queries
 
 ---
-
-## Future Improvements
-
-* Query rewriting for better retrieval
-* Retrieval confidence scoring
-* Multi-document support
-* Persistent ChromaDB storage
-* Hybrid search (semantic + keyword)
-
----
