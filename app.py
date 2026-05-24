@@ -5,7 +5,7 @@ from retriever import store_chunks, retrieve
 from generator import generate_answer
 from healer import heal
 
-st.title("🕉️ Self-Healing RAG Pipeline")
+st.title("Self-Healing RAG Pipeline")
 st.subheader("Ask anything from your PDF!")
 
 if "ready" not in st.session_state:
